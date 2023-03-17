@@ -14,6 +14,8 @@
 
 // a) Create a test with expect statements using the variables provided.
 
+// Jest test is required
+
 const secretCodeWord1 = "Lackadaisical"
 // Expected output: "L4ck4d41s1c4l"
 const secretCodeWord2 = "Gobbledygook"
@@ -22,6 +24,11 @@ const secretCodeWord3 = "Eccentric"
 // Expected output: "3cc3ntr1c"
 
 // b) Create the function that makes the test pass.
+
+// Pseudocode:
+// - include those methods and what is the intention of using them
+// - Expansion of what your code is going to do
+// - The more details the better
 
 // --------------------2) Create a function that takes in an array of words and a single letter and returns an array of all the words containing that particular letter.
 

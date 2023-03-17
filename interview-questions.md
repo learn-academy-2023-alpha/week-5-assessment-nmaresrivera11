@@ -9,14 +9,21 @@ Then, research the question to expand on your answer. Even if you feel you have 
 1. What does calling super do in a Ruby class?
 
 Your answer:
+<!-- tell us what you do know and then -->
 
 Researched answer:
+<!-- Let's use this section to research and provide in our own words what we got from our research -->
 
 2. What is a gem?
 
 Your answer:
+<!-- I don't know -->
+<!-- I am not sure at the moment but I can follow up with you on this matter at a later time. -->
+<!-- What are gems associated with? -->
+<!-- How have you worked with this in the past? -->
 
 Researched answer:
+<!-- Conveying your new understanding -->
 
 3. What is a relational database? Are there other kinds of databases?
 
